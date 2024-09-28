@@ -1,0 +1,34 @@
+body{
+	font:0.8em Arial;
+	background-color: #000000 !important;
+}
+
+.chat .messages{
+	margin-left: auto;
+	margin-right: auto;
+	border:1px solid #ccc;
+	width:800px;
+	margin-top:50px;
+	height:210px;
+	padding:10px;
+	overflow-y:scroll;
+	overflow-x:scroll;
+}
+
+#identifiants{
+	margin-top:45px;
+	background-color:#e4b0e7;
+}
+
+label{ 
+	font-weight:bold; 
+	color:#FFFFFF;	
+}
+
+.messages{ color: #FFFFFF !important; }
+
+#banniere{
+	height: 20%; 
+	width: 100%; 
+	background-image : url('/img/psychedelic-background.jpg');
+}
